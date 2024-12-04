@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/air"
+        android:title="Mileage"/>
+    <item
+        android:id="@+id/distance"
+        android:icon="@drawable/arrow"
+        android:title="Fuel Needed" />
+
+    <item
+        android:id="@+id/fuel"
+        android:icon="@drawable/fuel"
+        android:title="Fuel" />
+
+
+    <item
+        android:id="@+id/history"
+        android:icon="@drawable/history"
+        android:title="History" />
+
+</menu>
